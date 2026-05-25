@@ -24,4 +24,4 @@ Once everything is checked, publish the release by clicking on the **Publish rel
 
 After the release is published, the new version of the APK file will be available via the static link:
 
-[https://github.com/zafecaresystems/pager/releases/latest/download/zafepager.apk](https://github.com/zafecaresystems/pager/releases/latest/download/zafepager.apk)
+[https://github.com/heprocare/pager/releases/latest/download/heprocare_pager.apk](https://github.com/heperocare/pager/releases/latest/download/heprocare_pager.apk)
